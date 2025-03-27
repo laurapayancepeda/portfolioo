@@ -51,8 +51,10 @@ This Tableau dashboard analyzes Liverpool's performance in the 2019 Champions Le
 
 ### UEFA EURO 2024 Player and Team Performance Analysis (R and Power BI)
 This project, which I learned from a webinar, leverages Statsbomb data to analyse player and team performance during the UEFA EURO 2024 season using RStudio. It ranks teams based on shooting volume, measuring the number of shots taken, and highlights the attacking contributions of the top 20 players (with a minimum of 360 minutes played) by analysing shots and key passes per 90 minutes. The dashboard also visualises player progressions, such as completed passes into the final third, with a focus on player, in this case Toni Kroos's role in ball distribution. I initially visualised the data in R, as demonstrated in the webinar. However, I decided to develop a Power BI dashboard for a more interactive analysis, which is currently in progress.
-[](https://github.com/laurapayancepeda/portfolioo/blob/9b655dae30db81efe1bd5a991ce0b8a8391610f5/passes%20to%20the%20final%20third.png)
-[](https://github.com/laurapayancepeda/portfolioo/blob/9b655dae30db81efe1bd5a991ce0b8a8391610f5/key%20passes%20by%20shots%20.png)
+
+![Passes to the Final Third](https://github.com/laurapayancepeda/portfolioo/raw/main/passes%20to%20the%20final%20third.png)
+
+![Key Passes by Shots](https://github.com/laurapayancepeda/portfolioo/raw/main/key%20passes%20by%20shots%20.png)
 
 ## Predictive Analytics 
 
