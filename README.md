@@ -57,7 +57,7 @@ This project, which I learned from a webinar, leverages Statsbomb data to analys
 ### Predicting Customer Acceptance for Car Purchases Using a Decision Tree Model
 Developed a decision tree model to predict customer acceptance of car purchases based on key factors such as price, maintenance cost, safety ratings, and seating capacity. The model achieved an accuracy of 95% with a 10% classification error, demonstrating strong predictive performance in identifying buying preferences.
 
-[Find out more]([https://github.com/laurapayancepeda/portfolioo/blob/b9e9690355949d3dd10dbd99014062fa96b176fd/Fisheries%20pdf.pdf](https://github.com/laurapayancepeda/portfolioo/blob/b9e9690355949d3dd10dbd99014062fa96b176fd/car%20acceptance.pdf)
+[Find out more](https://github.com/laurapayancepeda/portfolioo/blob/b9e9690355949d3dd10dbd99014062fa96b176fd/car%20acceptance.pdf)
 
 ### Wine Quality Prediction Using a CART-Based Classification Model (R)
 Developed a CART-based classification model to predict wine quality using 12 key features. Model evaluation through a confusion matrix indicated an overall accuracy of 55.07%, highlighting areas for improvement in sensitivity and precision to enhance predictive performance.
