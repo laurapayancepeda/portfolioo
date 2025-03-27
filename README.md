@@ -31,10 +31,20 @@ Power BI/ SQL (MySQL/MS SQL Server) / Advanced Excel / Rstudio / SAP and Odoo ER
 As part of my master’s dissertation, I developed a Business Intelligence (BI) dashboard using Power BI with data from Odoo ERP. The project involved designing and developing seven functional navigation tabs covering key business areas, including sales, inventory, purchasing, and customer relationship management (CRM). 
 
 The company's primary requirements for this dashboard were to streamline data management, enhance operational efficiency, and improve decision-making through data-driven insights. Additionally, I identified and resolved data management errors, improving overall data accuracy. The dashboard provided real-time analytics, enabling better supplier performance tracking, stock monitoring, sales conversion analysis, customer engagement, and order fulfillment tracking, ultimately driving business growth and competitiveness.
+
+<video width="600" controls>
+  <source src="[https://github.com/laurapayancepeda/portfolioo/raw/main/github%20.mp4]" type="video/mp4">
+</video>
+
 --> [Find out more](https://www.linkedin.com/in/laura-payan-cepeda/)) 
 
 ### Football Match Game Perfromance Analysis (Tableau)
 This Tableau dashboard analyzes Liverpool's performance in the 2019 Champions League Final (Statsbomb data), focusing on key metrics such as pass maps, shot locations, passing success rates, and player positioning. It provides insights into the team’s passing efficiency, attacking strategies, and overall performance, offering a comprehensive view of the match. I am currently still working on this dashboard, hoping to bring more metrics and KPIs.  
+
+<video width="600" controls>
+  <source src="https://github.com/laurapayancepeda/portfolioo/raw/main/github%20.mp4" type="video/mp4">
+</video>
+
 -->[Interact with the Dashboard](https://public.tableau.com/views/LiverpoolsMatchGameAnalysisintheChampionsleaguefinal2019/PassingMatrixandMap?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### UEFA EURO 2024 Player and Team Performance Analysis (R and Power BI)
