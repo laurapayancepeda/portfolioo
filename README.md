@@ -43,7 +43,8 @@ The company's primary requirements for this dashboard were to streamline data ma
 This Tableau dashboard analyzes Liverpool's performance in the 2019 Champions League Final (Statsbomb data), focusing on key metrics such as pass maps, shot locations, passing success rates, and player positioning. It provides insights into the team’s passing efficiency, attacking strategies, and overall performance, offering a comprehensive view of the match. I am currently still working on this dashboard, hoping to bring more metrics and KPIs.  
 
 <video width="600" controls>
-  <source src="[https://github.com/laurapayancepeda/portfolioo/raw/main/github%20.mp]"type="video/mp4]">
+  <source src="https://github.com/laurapayancepeda/portfolioo/raw/main/github2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
 
 [Interact with the Dashboard](https://public.tableau.com/views/LiverpoolsMatchGameAnalysisintheChampionsleaguefinal2019/PassingMatrixandMap?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -56,7 +57,7 @@ This project, which I learned from a webinar, leverages Statsbomb data to analys
 ### Predicting Customer Acceptance for Car Purchases Using a Decision Tree Model
 Developed a decision tree model to predict customer acceptance of car purchases based on key factors such as price, maintenance cost, safety ratings, and seating capacity. The model achieved an accuracy of 95% with a 10% classification error, demonstrating strong predictive performance in identifying buying preferences.
 
-[Find out more]([https://github.com/laurapayancepeda/portfolioo/blob/b9e9690355949d3dd10dbd99014062fa96b176fd/Fisheries%20pdf.pdf](https://github.com/laurapayancepeda/portfolioo/blob/b9e9690355949d3dd10dbd99014062fa96b176fd/car%20acceptance.pdf))
+[Find out more]([https://github.com/laurapayancepeda/portfolioo/blob/b9e9690355949d3dd10dbd99014062fa96b176fd/Fisheries%20pdf.pdf](https://github.com/laurapayancepeda/portfolioo/blob/b9e9690355949d3dd10dbd99014062fa96b176fd/car%20acceptance.pdf)
 
 ### Wine Quality Prediction Using a CART-Based Classification Model (R)
 Developed a CART-based classification model to predict wine quality using 12 key features. Model evaluation through a confusion matrix indicated an overall accuracy of 55.07%, highlighting areas for improvement in sensitivity and precision to enhance predictive performance.
