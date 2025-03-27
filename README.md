@@ -43,7 +43,7 @@ The company's primary requirements for this dashboard were to streamline data ma
 This Tableau dashboard analyzes Liverpool's performance in the 2019 Champions League Final (Statsbomb data), focusing on key metrics such as pass maps, shot locations, passing success rates, and player positioning. It provides insights into the team’s passing efficiency, attacking strategies, and overall performance, offering a comprehensive view of the match. I am currently still working on this dashboard, hoping to bring more metrics and KPIs.  
 
 <video width="600" controls>
-  <source src="https://github.com/laurapayancepeda/portfolioo/raw/main/github%20.mp4" type="video/mp4">
+  <source src="[https://github.com/laurapayancepeda/portfolioo/raw/main/github%20.mp]"type="video/mp4">
 </video>
 
 [Interact with the Dashboard](https://public.tableau.com/views/LiverpoolsMatchGameAnalysisintheChampionsleaguefinal2019/PassingMatrixandMap?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
