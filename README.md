@@ -33,10 +33,11 @@ As part of my master’s dissertation, I developed a Business Intelligence (BI) 
 The company's primary requirements for this dashboard were to streamline data management, enhance operational efficiency, and improve decision-making through data-driven insights. Additionally, I identified and resolved data management errors, improving overall data accuracy. The dashboard provided real-time analytics, enabling better supplier performance tracking, stock monitoring, sales conversion analysis, customer engagement, and order fulfillment tracking, ultimately driving business growth and competitiveness.
 
 <video width="600" controls>
-  <source src="[https://github.com/laurapayancepeda/portfolioo/raw/main/github%20.mp4]" type="video/mp4">
+  <source src="https://github.com/laurapayancepeda/portfolioo/raw/main/github%20.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
 
---> [Find out more](https://www.linkedin.com/in/laura-payan-cepeda/)) 
+[Find out more](https://www.linkedin.com/in/laura-payan-cepeda/)
 
 ### Football Match Game Perfromance Analysis (Tableau)
 This Tableau dashboard analyzes Liverpool's performance in the 2019 Champions League Final (Statsbomb data), focusing on key metrics such as pass maps, shot locations, passing success rates, and player positioning. It provides insights into the team’s passing efficiency, attacking strategies, and overall performance, offering a comprehensive view of the match. I am currently still working on this dashboard, hoping to bring more metrics and KPIs.  
@@ -45,7 +46,7 @@ This Tableau dashboard analyzes Liverpool's performance in the 2019 Champions Le
   <source src="https://github.com/laurapayancepeda/portfolioo/raw/main/github%20.mp4" type="video/mp4">
 </video>
 
--->[Interact with the Dashboard](https://public.tableau.com/views/LiverpoolsMatchGameAnalysisintheChampionsleaguefinal2019/PassingMatrixandMap?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Interact with the Dashboard](https://public.tableau.com/views/LiverpoolsMatchGameAnalysisintheChampionsleaguefinal2019/PassingMatrixandMap?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### UEFA EURO 2024 Player and Team Performance Analysis (R and Power BI)
 This project, which I learned from a webinar, leverages Statsbomb data to analyse player and team performance during the UEFA EURO 2024 season using RStudio. It ranks teams based on shooting volume, measuring the number of shots taken, and highlights the attacking contributions of the top 20 players (with a minimum of 360 minutes played) by analysing shots and key passes per 90 minutes. The dashboard also visualises player progressions, such as completed passes into the final third, with a focus on player, in this case Toni Kroos's role in ball distribution. I initially visualised the data in R, as demonstrated in the webinar. However, I decided to develop a Power BI dashboard for a more interactive analysis, which is currently in progress.
@@ -54,16 +55,17 @@ This project, which I learned from a webinar, leverages Statsbomb data to analys
 
 ### Predicting Customer Acceptance for Car Purchases Using a Decision Tree Model
 Developed a decision tree model to predict customer acceptance of car purchases based on key factors such as price, maintenance cost, safety ratings, and seating capacity. The model achieved an accuracy of 95% with a 10% classification error, demonstrating strong predictive performance in identifying buying preferences.
--->![Find out more]([https://github.com/laurapayancepeda/portfolioo/blob/b9e9690355949d3dd10dbd99014062fa96b176fd/Fisheries%20pdf.pdf](https://github.com/laurapayancepeda/portfolioo/blob/b9e9690355949d3dd10dbd99014062fa96b176fd/car%20acceptance.pdf))
+
+[Find out more]([https://github.com/laurapayancepeda/portfolioo/blob/b9e9690355949d3dd10dbd99014062fa96b176fd/Fisheries%20pdf.pdf](https://github.com/laurapayancepeda/portfolioo/blob/b9e9690355949d3dd10dbd99014062fa96b176fd/car%20acceptance.pdf))
 
 ### Wine Quality Prediction Using a CART-Based Classification Model (R)
 Developed a CART-based classification model to predict wine quality using 12 key features. Model evaluation through a confusion matrix indicated an overall accuracy of 55.07%, highlighting areas for improvement in sensitivity and precision to enhance predictive performance.
--->![Find out more](https://github.com/laurapayancepeda/portfolioo/blob/b9e9690355949d3dd10dbd99014062fa96b176fd/Fisheries%20pdf.pdf)
+[Find out more](https://github.com/laurapayancepeda/portfolioo/blob/b9e9690355949d3dd10dbd99014062fa96b176fd/Fisheries%20pdf.pdf)
 
 ### Business Intelligence for Fisheries Conservation and Forecasting (Tableau and RapidMiner)
 Designed an interactive Tableau dashboard to visualise Lake Powell fisheries data (2004–2018), uncovering trends in environmental patterns, fish populations, and ecosystem health. Built a Random Forest predictive model in RapidMiner to forecast fish weight based on stomach contents, achieving 56.91% accuracy, with 94.77% precision for lighter fish and 99.19% recall for heavier fish.This research aims to develop a data-driven model that supports fisheries management, ecological research, and conservation efforts, facilitating the monitoring and preservation of aquatic ecosystems.
--->![Find out more](https://github.com/laurapayancepeda/portfolioo/blob/b9e9690355949d3dd10dbd99014062fa96b176fd/Fisheries%20pdf.pdf) 
+[Find out more](https://github.com/laurapayancepeda/portfolioo/blob/b9e9690355949d3dd10dbd99014062fa96b176fd/Fisheries%20pdf.pdf) 
 
 ### Sentiment Analysis and Pattern Recognition in Personal Journals for Emotional Well-being (R)
 I developed a sentiment analysis and clustering model to analyse personal journal entries, uncovering emotional patterns and themes that influence well-being. By examining past journal data, the model is able to predict emotional trends, identify triggers, and offer personalised well-being recommendations. Using K-means clustering, the entries were categorised into three distinct sentiment groups: Slightly Positive, mostly linked to family-related emotions; Negative, largely associated with work-related stress; and Very Positive, characterised by themes of family and enjoyment. To further enhance the analysis, I applied the Apriori algorithm to identify associations between words and recurring themes within each sentiment group, providing valuable insights into emotional triggers and behavioural patterns.
--->![Find out more](https://github.com/laurapayancepeda/portfolioo/blob/b9e9690355949d3dd10dbd99014062fa96b176fd/Personal%20Journies%20prediction%20paper%20.pdf)
+[Find out more](https://github.com/laurapayancepeda/portfolioo/blob/b9e9690355949d3dd10dbd99014062fa96b176fd/Personal%20Journies%20prediction%20paper%20.pdf)
