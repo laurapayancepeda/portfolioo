@@ -15,6 +15,7 @@ Hello, I'm Laura Payan Cepeda, and I’m a data and business analyst. My journey
 - Predictive and Prescriptive Analytics
 - Data Management and Best Practices 
 - ERP Systems
+- Market Research and Consumer Behaviour Analysis
 
 ### Skills 
 Power BI/ SQL (MySQL/MS SQL Server) / Advanced Excel / Rstudio / SAP and Odoo ERP/ Rapidminer/ QlikView / Python / Tableau 
