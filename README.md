@@ -60,7 +60,7 @@ This project, which I learned from a webinar, leverages Statsbomb data to analys
 
 ![Employee Information Dashboard](https://github.com/laurapayancepeda/portfolioo/blob/5701710239cd5997c6c98d88499809741c189f3b/employee%20dashboard%202.PNG)
 
-![Employee Information Dashboard](https://github.com/laurapayancepeda/portfolioo/blob/2b9ea03a464b622671508c039c30fd4b6f070ba4/Employee%20chart%20dashboard.PNG)
+![Employee Information Dashboard](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/8ee34283a2c2e0629d6cb406ed31de0748072ff6/Employee%20chart%20dashboard.PNG)
 
 #### Sales Performance Dashboards (Power BI, Excel)
 ![Employee Sales Performance](https://github.com/laurapayancepeda/portfolioo/blob/5701710239cd5997c6c98d88499809741c189f3b/sales%20perfromance.PNG)
