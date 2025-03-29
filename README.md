@@ -58,15 +58,18 @@ This project, which I learned from a webinar, leverages Statsbomb data to analys
 
 #### Corporate Dashboards
 
-#### Employee Information Dashboard 
+#### Employee Information Dashboard (Power BI)
+
 ![Employee Information Dashboard](https://github.com/laurapayancepeda/portfolioo/blob/5701710239cd5997c6c98d88499809741c189f3b/employee%20dashboard%202.PNG)
 
-#### Employee Sales Performance 
+![Employee Information Dashboard](https://github.com/laurapayancepeda/portfolioo/blob/2b9ea03a464b622671508c039c30fd4b6f070ba4/Employee%20chart%20dashboard.PNG)
+
+#### Sales Performance Dashboards (Power BI, Excel)
 ![Employee Sales Performance](https://github.com/laurapayancepeda/portfolioo/blob/5701710239cd5997c6c98d88499809741c189f3b/sales%20perfromance.PNG)
 
-#### Sales Dashboard (Excel and Power BI)
 ![Sales Performance]([https://github.com/laurapayancepeda/portfolioo/blob/5701710239cd5997c6c98d88499809741c189f3b/excel%20dashboard.PNG])
 
+![Yearly Sales](https://github.com/laurapayancepeda/portfolioo/blob/2b9ea03a464b622671508c039c30fd4b6f070ba4/comparison%20of%20yearly%20sales.PNG)
 
 ## Predictive Analytics 
 
