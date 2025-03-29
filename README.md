@@ -48,7 +48,9 @@ This Tableau dashboard analyzes Liverpool's performance in the 2019 Champions Le
 [Interact with the Dashboard](https://public.tableau.com/views/LiverpoolsMatchGameAnalysisintheChampionsleaguefinal2019/PassingMatrixandMap?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### UEFA EURO 2024 Player and Team Performance Analysis (R and Power BI)
-This project, which I learned from a webinar, leverages Statsbomb data to analyse player and team performance during the UEFA EURO 2024 season using RStudio. It ranks teams based on shooting volume, measuring the number of shots taken, and highlights the attacking contributions of the top 20 players (with a minimum of 360 minutes played) by analysing shots and key passes per 90 minutes. The dashboard also visualises player progressions, such as completed passes into the final third, with a focus on player, in this case Toni Kroos's role in ball distribution. I initially visualised the data in R, as demonstrated in the webinar. However, I decided to develop a Power BI dashboard for a more interactive analysis, which is currently in progress.
+This project, which I learned about through a webinar, leverages Statsbomb data to analyze player and team performance during the UEFA EURO 2024 season using RStudio. It ranks teams based on shooting volume, measuring the number of shots taken, and highlights the attacking contributions of the top 20 players (with a minimum of 360 minutes played) by analyzing shots and key passes per 90 minutes. The visualization also showcases player progressions, such as completed passes into the final third, with a specific focus on Toni Kroos’s role in ball distribution.
+
+Initially, I visualized the data in R, as demonstrated in the webinar, but I decided to further develop the analysis in Power BI for more interactive insights, which is currently in progress (coming soon).
 
 ![Shot Volume](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/c2c8fc1b5159ef362c7717eac81f9e476e5cf79a/crop%20football.png)
 
