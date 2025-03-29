@@ -1,7 +1,7 @@
 # About me 
 Hi! I’m Laura Payan Cepeda. My journey started in business, where I quickly fell in love with strategy. Over time, I realized that data is what truly drives smart decisions. Now, I help businesses and their teams solve challenges and reach their goals by making data work for them. Data holds the key to performance, but only when it’s understood and used the right way. I’m driven by curiosity, ambition and a passion for using data to create real, meaningful results. 
 
-*I welcome opportunities for collaboration and partnerships. If you are seeking someone to analyse your data and provide insights, please feel free to reach out* ---> [Linkedin](www.linkedin.com/in/laura-payan-cepeda/) 
+*I welcome opportunities for collaboration and partnerships. If you are seeking someone to analyse your data and provide insights, please feel free to reach out* ---> [Linkedin]([www.linkedin.com/in/laura-payan-cepeda](https://www.linkedin.com/in/laura-payan-cepeda/) 
 
 ### Education 
 - Bachelor of Arts in International Business (University of Liverpool)
@@ -55,6 +55,18 @@ This project, which I learned from a webinar, leverages Statsbomb data to analys
 ![Passes to the Final Third](https://github.com/laurapayancepeda/portfolioo/raw/main/passes%20to%20the%20final%20third.png)
 
 ![Key Passes by Shots](https://github.com/laurapayancepeda/portfolioo/raw/main/key%20passes%20by%20shots%20.png)
+
+#### Corporate Dashboards
+
+#### Employee Information Dashboard 
+![Employee Information Dashboard](https://github.com/laurapayancepeda/portfolioo/blob/5701710239cd5997c6c98d88499809741c189f3b/employee%20dashboard%202.PNG)
+
+#### Employee Sales Performance 
+![Employee Sales Performance](https://github.com/laurapayancepeda/portfolioo/blob/5701710239cd5997c6c98d88499809741c189f3b/sales%20perfromance.PNG)
+
+#### Sales Dashboard (Excel and Power BI)
+![Sales Performance]([https://github.com/laurapayancepeda/portfolioo/blob/5701710239cd5997c6c98d88499809741c189f3b/excel%20dashboard.PNG])
+
 
 ## Predictive Analytics 
 
