@@ -1,25 +1,25 @@
 # About me 
-Hi! I’m Laura Payan Cepeda. My journey started in business, where I quickly fell in love with strategy. Over time, I realized that data is what truly drives smart decisions. Now, I help businesses and their teams solve challenges and reach their goals by making data work for them. Data holds the key to performance, but only when it’s understood and used the right way. I’m driven by curiosity, ambition and a passion for using data to create real, meaningful results. 
+Hello, I'm Laura Payan Cepeda, and I’m a data and business analyst. My journey started in business, where I quickly fell in love with strategy. Over time, I realised that data is what truly drives well-informed decisions. Now, I help businesses and their teams solve challenges and reach their goals by making data work for them. Data holds the key to performance, but only when it’s understood and used the right way. I’m driven by curiosity, ambition and a passion for using data to create real, meaningful results. 
 
 *I welcome opportunities for collaboration and partnerships. If you are seeking someone to analyse your data and provide insights, please feel free to reach out* ---> [Linkedin](https://www.linkedin.com/in/laura-payan-cepeda/) 
 
 ### Education 
-- Bachelor of Arts in International Business (University of Liverpool)
-- Masters of Science in Business Analytics and Big Data (University of Liverpool)
+- First-class Honours Bachelor of Arts in International Business (University of Liverpool)
+- Distinction in Master of Science in Business Analytics and Big Data (University of Liverpool)
 
 ### Areas of Interest 
-- Data Analysis and developing a corporate strategy based on data 
+- Data Analysis and Development of Corporate Strategy Based on Data
 - Business Intelligence 
 - Machine learning and Data Mining 
 - Sports Analytics
 - Predictive and Prescriptive Analytics
-- Data Management and Practices 
+- Data Management and Best Practices 
 - ERP Systems
 
 ### Skills 
 Power BI/ SQL (MySQL/MS SQL Server) / Advanced Excel / Rstudio / SAP and Odoo ERP/ Rapidminer/ QlikView / Python / Tableau 
 - I am currently working towards **Microsoft Certification for Power BI**
-- I am currently working on developing my **data science skills in Python**
+- I am currently working on developing my **Data Science Skills in Python**
 
 # Projects 
 *I document my journey, taking on a variety of projects across different industries, driven by my natural curiosity about applying my skills and expanding my knowledge*
