@@ -1,7 +1,7 @@
 # About me 
 Hi! I’m Laura Payan Cepeda. My journey started in business, where I quickly fell in love with strategy. Over time, I realized that data is what truly drives smart decisions. Now, I help businesses and their teams solve challenges and reach their goals by making data work for them. Data holds the key to performance, but only when it’s understood and used the right way. I’m driven by curiosity, ambition and a passion for using data to create real, meaningful results. 
 
-*I welcome opportunities for collaboration and partnerships. If you are seeking someone to analyse your data and provide insights, please feel free to reach out* ---> [Linkedin]([www.linkedin.com/in/laura-payan-cepeda](https://www.linkedin.com/in/laura-payan-cepeda/) 
+*I welcome opportunities for collaboration and partnerships. If you are seeking someone to analyse your data and provide insights, please feel free to reach out* ---> [Linkedin](https://www.linkedin.com/in/laura-payan-cepeda/) 
 
 ### Education 
 - Bachelor of Arts in International Business (University of Liverpool)
@@ -22,11 +22,9 @@ Power BI/ SQL (MySQL/MS SQL Server) / Advanced Excel / Rstudio / SAP and Odoo ER
 - I am currently working on developing my **data science skills in Python**
 
 # Projects 
-
 *I document my journey, taking on a variety of projects across different industries, driven by my natural curiosity about applying my skills and expanding my knowledge*
 
 ## Analytics and Business Intelligence
-
 ### Business Intelligence to support real-life decision-making and core functions in an SME (Power BI)
 As part of my master’s dissertation, I developed a Business Intelligence (BI) dashboard using Power BI with data from Odoo ERP. The project involved designing and developing seven functional navigation tabs covering key business areas, including sales, inventory, purchasing, and customer relationship management (CRM). 
 
@@ -58,7 +56,7 @@ This project, which I learned from a webinar, leverages Statsbomb data to analys
 
 #### Corporate Dashboards
 
-#### Employee Information Dashboard (Power BI)
+#### Employee Information Dashboards (Power BI)
 
 ![Employee Information Dashboard](https://github.com/laurapayancepeda/portfolioo/blob/5701710239cd5997c6c98d88499809741c189f3b/employee%20dashboard%202.PNG)
 
@@ -67,9 +65,9 @@ This project, which I learned from a webinar, leverages Statsbomb data to analys
 #### Sales Performance Dashboards (Power BI, Excel)
 ![Employee Sales Performance](https://github.com/laurapayancepeda/portfolioo/blob/5701710239cd5997c6c98d88499809741c189f3b/sales%20perfromance.PNG)
 
-![Sales Performance]([https://github.com/laurapayancepeda/portfolioo/blob/5701710239cd5997c6c98d88499809741c189f3b/excel%20dashboard.PNG])
-
 ![Yearly Sales](https://github.com/laurapayancepeda/portfolioo/blob/2b9ea03a464b622671508c039c30fd4b6f070ba4/comparison%20of%20yearly%20sales.PNG)
+
+![Sales Performance](https://github.com/laurapayancepeda/portfolioo/blob/0dae31820d125a8fe8fba2bfebd11ca74b6296ae/excel%20dashboard.PNG)
 
 ## Predictive Analytics 
 
