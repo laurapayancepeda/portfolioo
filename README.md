@@ -35,7 +35,7 @@ The company's primary requirements for this dashboard were to streamline data ma
   Your browser does not support the video tag.
 </video>
 
-[Find out more](https://www.linkedin.com/in/laura-payan-cepeda/)
+[Find out more under Projects](https://www.linkedin.com/in/laura-payan-cepeda/)
 
 ### Football Match Game Perfromance Analysis (Tableau)
 This Tableau dashboard analyzes Liverpool's performance in the 2019 Champions League Final (Statsbomb data), focusing on key metrics such as pass maps, shot locations, passing success rates, and player positioning. It provides insights into the team’s passing efficiency, attacking strategies, and overall performance, offering a comprehensive view of the match. I am currently still working on this dashboard, hoping to bring more metrics and KPIs.  
