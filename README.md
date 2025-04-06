@@ -59,20 +59,40 @@ Initially, I visualized the data in R, as demonstrated in the webinar, but I dec
 
 ![Key Passes by Shots](https://github.com/laurapayancepeda/portfolioo/raw/main/key%20passes%20by%20shots%20.png)
 
-#### Corporate Dashboards
+#### Corporate Dashboards: Reporting and Monitoring 
 
-#### Employee Information Dashboards (Power BI)
+#### Information Dashboards (Power BI)
 
+##### Employee Information 
 ![Employee Information Dashboard](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/5701710239cd5997c6c98d88499809741c189f3b/employee%20dashboard%202.PNG)
 
+##### Employee Information 
 ![Employee Information Dashboard](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/8ee34283a2c2e0629d6cb406ed31de0748072ff6/Employee%20chart%20dashboard.PNG)
 
-#### Sales Performance Dashboards (Power BI, Excel)
+##### Order Tracking 
+![Employee Information Dashboard](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/dfa93de6dd0cf32d2a8e8fc160faef2d90af5ecf/POWER%20BI%20PURCHASE%20ORDER.PNG)
+
+#### Performance Dashboards (Power BI, Excel)
+
+##### Employee Sales Performance 
 ![Employee Sales Performance](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/5701710239cd5997c6c98d88499809741c189f3b/sales%20perfromance.PNG)
 
+##### Yearly Sales
 ![Yearly Sales](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/2b9ea03a464b622671508c039c30fd4b6f070ba4/comparison%20of%20yearly%20sales.PNG)
-
+##### Sales Performance 
 ![Sales Performance](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/0dae31820d125a8fe8fba2bfebd11ca74b6296ae/excel%20dashboard.PNG)
+
+##### Last 7 Days Sales Analysis
+![Last 7 Days Sales Analysis](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/dfa93de6dd0cf32d2a8e8fc160faef2d90af5ecf/POWER%20BI%20DASHBAORD%202.PNG)
+
+##### Sales Across Years
+![Sales Across Years](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/dfa93de6dd0cf32d2a8e8fc160faef2d90af5ecf/POWER%20BI%20DASHBAORD.PNG)
+
+##### Sales Overall Score Card
+![Sales Score Card Report](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/dfa93de6dd0cf32d2a8e8fc160faef2d90af5ecf/POWER%20BI%20DASHBOARD%203.PNG)
+
+##### Profit and Sales Report 
+![Profit and Sales Report](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/dfa93de6dd0cf32d2a8e8fc160faef2d90af5ecf/POWER%20BI%20DASHBOARD%204.PNG)
 
 ## Predictive Analytics 
 
