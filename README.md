@@ -38,7 +38,7 @@ The company's primary requirements for this dashboard were to streamline data ma
 
 [Find out more under Projects](https://www.linkedin.com/in/laura-payan-cepeda/)
 
-### Football Match Game Perfromance Analysis (Tableau)
+### Football Match Game Performance Analysis (Tableau)
 This Tableau dashboard analyzes Liverpool's performance in the 2019 Champions League Final (Statsbomb data), focusing on key metrics such as pass maps, shot locations, passing success rates, and player positioning. It provides insights into the team’s passing efficiency, attacking strategies, and overall performance, offering a comprehensive view of the match. I am currently still working on this dashboard, hoping to bring more metrics and KPIs.  
 
 <video width="600" controls>
@@ -58,6 +58,13 @@ Initially, I visualized the data in R, as demonstrated in the webinar, but I dec
 ![Passes to the Final Third](https://github.com/laurapayancepeda/portfolioo/raw/main/passes%20to%20the%20final%20third.png)
 
 ![Key Passes by Shots](https://github.com/laurapayancepeda/portfolioo/raw/main/key%20passes%20by%20shots%20.png)
+
+### Coffee Shop Sales Breakdown (Tableau)
+![Page 1 Dashboard](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/a7d517c70de9bd12dee0e91750067a5c2f194526/Screenshot%202025-04-08%20at%2001.45.05.png)
+
+![Page 1 Dashboard](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/a7d517c70de9bd12dee0e91750067a5c2f194526/Screenshot%202025-04-08%20at%2001.45.15.png)
+
+[Interact with the Dashboard](https://public.tableau.com/views/CoffeeShopSalesBreakdown/CoffeeShopBreakdown?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 #### Corporate Dashboards: Reporting and Monitoring 
 
