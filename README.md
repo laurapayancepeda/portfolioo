@@ -95,6 +95,12 @@ Initially, I visualized the data in R, as demonstrated in the webinar, but I dec
 
 ![Sales Commission 2](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/2b6cda8729ed3c3c355a466eca7488223ca72eb5/COMMISSION%20REPORT.PNG)
 
+##### Map of Sales 
+
+![Map of Sales](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/6427dfb3b4e2e1b18e0edc3de68d7f84637bca5d/MAP%203.PNG)
+
+![Map of Sales](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/6427dfb3b4e2e1b18e0edc3de68d7f84637bca5d/MAP.PNG)
+
 ##### Employee Sales Performance 
 ![Employee Sales Performance](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/5701710239cd5997c6c98d88499809741c189f3b/sales%20perfromance.PNG)
 
