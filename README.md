@@ -81,6 +81,20 @@ Initially, I visualized the data in R, as demonstrated in the webinar, but I dec
 
 #### Performance Dashboards (Power BI, Excel)
 
+##### Employee Performance (Shifts and Hours worked)
+![Employee Performance](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/2b6cda8729ed3c3c355a466eca7488223ca72eb5/EMPLOYEE%20PERFORMANCE.PNG)
+
+![Employee Performance 2](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/2b6cda8729ed3c3c355a466eca7488223ca72eb5/EMPLOYEE%20PERFORMANCE%202.PNG)
+
+![Employee Performance 3](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/2b6cda8729ed3c3c355a466eca7488223ca72eb5/EMPLOYEE%20PERFROMANCE%201.PNG)
+
+![Employee Performance 4](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/2b6cda8729ed3c3c355a466eca7488223ca72eb5/EMPLOYEE%20PERFROMANCE%204.PNG)
+
+##### Sales Commission
+![Sales Commission](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/2b6cda8729ed3c3c355a466eca7488223ca72eb5/COMMISION%20REPORT.PNG)
+
+![Sales Commission 2](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/2b6cda8729ed3c3c355a466eca7488223ca72eb5/COMMISSION%20REPORT.PNG)
+
 ##### Employee Sales Performance 
 ![Employee Sales Performance](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/5701710239cd5997c6c98d88499809741c189f3b/sales%20perfromance.PNG)
 
