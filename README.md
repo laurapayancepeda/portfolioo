@@ -66,6 +66,11 @@ Initially, I visualized the data in R, as demonstrated in the webinar, but I dec
 
 [Interact with the Dashboard](https://public.tableau.com/views/CoffeeShopSalesBreakdown/CoffeeShopBreakdown?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+#### Player Wellness, Workload and Weekly Outlook Dashboard and Report (Google Sheets)
+This time, I created a dashboard in Google Sheets to monitor individual players' wellness, workload, and weekly training outlook. The dashboard allows filtering by player and date, displaying key stats. 
+
+[Interact with the Dashboard](https://docs.google.com/spreadsheets/d/1gisvvZVAlLx6FwH7bA4Y9Drq9NLDplPc7EdhSW-Q-BU/edit?usp=sharing)
+
 #### Corporate Dashboards: Reporting and Monitoring 
 
 #### Information Dashboards (Power BI)
