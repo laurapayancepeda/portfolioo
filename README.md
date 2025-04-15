@@ -69,9 +69,7 @@ Initially, I visualized the data in R, as demonstrated in the webinar, but I dec
 #### Session Training and Player Performance (Power BI) 
 My goal with this dashboard is to use 1 month of GPS and Wellness Data, and review Real Madrid's outcomes of specific training sessions, track how an athlete’s wellness scores align with their usual averages, and evaluate their recent performance in relation to their historical bests over time.
 
-[Training session](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/bdaeb6c8d8350fd9adcb7feb453f8844c528718b/WhatsApp%20Image%202025-04-15%20at%2017.17.42%20(2).jpeg)
-
-[Training session 2](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/bdaeb6c8d8350fd9adcb7feb453f8844c528718b/WhatsApp%20Image%202025-04-15%20at%2017.17.42.jpeg)
+[Training session](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/75be907f4d28c3064b41c78d57454c864906698e/sports%20dashboard-1.png)
 
 #### Player Wellness, Workload and Weekly Outlook Dashboard and Report (Google Sheets)
 This time, I created a dashboard in Google Sheets to monitor individual players' wellness, workload, and weekly training outlook. The dashboard allows filtering by player and date, displaying key stats. 
