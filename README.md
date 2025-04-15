@@ -20,7 +20,7 @@ Hello, I'm Laura Payan Cepeda, and I’m a data and business analyst. My journey
 ### Skills & Certfications
 - Python for Data Science, ACTVET Certified
 - Advanced SQL (MS SQL Server, MySQL), ACTVET Certified
-- Advanced Power BI (DAX, Power Query), ACTVET Certified
+- Power BI (DAX, Power Query), ACTVET Certified
 - Advanced Excel, ACTVET Certified
 - Tableau, LinkedIn Learning Certified
 - GDPR & GDPR Compliance, LinkedIn Learning Certified
