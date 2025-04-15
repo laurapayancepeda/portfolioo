@@ -17,10 +17,17 @@ Hello, I'm Laura Payan Cepeda, and I’m a data and business analyst. My journey
 - ERP Systems
 - Market Research and Consumer Behaviour Analysis
 
-### Skills 
-Power BI/ SQL (MySQL/MS SQL Server) / Advanced Excel / Rstudio / SAP and Odoo ERP/ Rapidminer/ QlikView / Python / Tableau 
-- I am currently working towards **Microsoft Certification for Power BI**
-- I am currently working on developing my **Data Science Skills in Python**
+### Skills & Certfications
+•	Python for Data Science, ACTVET Certified 
+•	Advanced SQL (MS SQL Server, MySQL), ACTVET Certified
+•	Advanced Power BI (DAX, Power Query), ACTVET Certified
+•	Advanced Excel, ACTVET Certified 
+•	Tableau, LinkedIn Learning Certified. 
+•	GDPR & GDPR Compliance, LinkedIn Learning Certified 
+
+RStudio/ RapidMiner/ QlikView/ MS Project/ MS Office
+SAP S4/HANA (MM, Controlling, PP, SD modules), Odoo 
+Data Mining/Machine Learning 
 
 # Projects 
 *I document my journey, taking on a variety of projects across different industries, driven by my natural curiosity about applying my skills and expanding my knowledge*
