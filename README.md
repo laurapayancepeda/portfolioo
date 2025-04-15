@@ -67,9 +67,14 @@ Initially, I visualized the data in R, as demonstrated in the webinar, but I dec
 [Interact with the Dashboard](https://public.tableau.com/views/CoffeeShopSalesBreakdown/CoffeeShopBreakdown?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 #### Session Training and Player Performance (Power BI) 
-My goal with this dashboard is to use 1 month of GPS and Wellness Data, and review Real Madrid's outcomes of specific training sessions, track how an athlete’s wellness scores align with their usual averages, and evaluate their recent performance in relation to their historical bests over time.
+My goal with this dashboard is to use 1 month of GPS and Wellness Data, and review Real Madrid's outcomes of specific training sessions, track an athlete’s wellness scores, and evaluate their recent performance. The dashboard currently consists of a Daily Session Report Dashboard, Individual Player Report and Wellness Report. 
 
-![Training session](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/75be907f4d28c3064b41c78d57454c864906698e/sports%20dashboard-1.png)
+![Training session](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/4659f9338b3b24fbebd629d1f156a6f0c4c49684/sports%20dashboard%20(1)_page-0001.jpg)
+
+![Training session](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/4659f9338b3b24fbebd629d1f156a6f0c4c49684/sports%20dashboard%20(1)_page-0002.jpg)
+
+![Training session](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/4659f9338b3b24fbebd629d1f156a6f0c4c49684/sports%20dashboard%20(1)_page-0003.jpg)
+
 
 #### Player Wellness, Workload and Weekly Outlook Dashboard and Report (Google Sheets)
 This time, I created a dashboard in Google Sheets to monitor individual players' wellness, workload, and weekly training outlook. The dashboard allows filtering by player and date, displaying key stats. 
