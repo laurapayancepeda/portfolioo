@@ -60,6 +60,8 @@ Initially, I visualized the data in R, as demonstrated in the webinar, but I dec
 ![Key Passes by Shots](https://github.com/laurapayancepeda/portfolioo/raw/main/key%20passes%20by%20shots%20.png)
 
 ### Coffee Shop Sales Breakdown (Tableau)
+This projects aims to give a full breakdown of the sales of a coffee shop. It goes in depth into the country, product and market level. 
+
 ![Page 1 Dashboard](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/a7d517c70de9bd12dee0e91750067a5c2f194526/Screenshot%202025-04-08%20at%2001.45.05.png)
 
 ![Page 1 Dashboard](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/a7d517c70de9bd12dee0e91750067a5c2f194526/Screenshot%202025-04-08%20at%2001.45.15.png)
@@ -67,7 +69,9 @@ Initially, I visualized the data in R, as demonstrated in the webinar, but I dec
 [Interact with the Dashboard](https://public.tableau.com/views/CoffeeShopSalesBreakdown/CoffeeShopBreakdown?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 #### Session Training and Player Performance (Power BI) 
-My goal with this dashboard is to use 1 month of GPS and Wellness Data, and review Real Madrid's outcomes of specific training sessions, track an athlete’s wellness scores, and evaluate their recent performance. The dashboard currently consists of a Daily Session Report Dashboard, Individual Player Report and Wellness Report. 
+My goal with this dashboard is to use 1 month of GPS and Wellness Data, and review Real Madrid's outcomes of specific training sessions, track an athlete’s wellness scores, and evaluate their recent performance, allowing stakeholders and coaches to quickly identify any points of improvement or concern in terms of an athlete's performance and recovery. 
+
+The dashboard currently consists of a Daily Session Report, an Individual Player Report and a Player Wellness Report. 
 
 ![Training session](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/4659f9338b3b24fbebd629d1f156a6f0c4c49684/sports%20dashboard%20(1)_page-0001.jpg)
 
@@ -77,7 +81,7 @@ My goal with this dashboard is to use 1 month of GPS and Wellness Data, and revi
 
 
 #### Player Wellness, Workload and Weekly Outlook Dashboard and Report (Google Sheets)
-This time, I created a dashboard in Google Sheets to monitor individual players' wellness, workload, and weekly training outlook. The dashboard allows filtering by player and date, displaying key stats. 
+This time, I created a dashboard in Google Sheets, part of a short course I took on how to track sports data (wellness and training session data) on a budget. I monitor player wellness, workload, and weekly training outlook. 
 
 [Interact with the Dashboard](https://docs.google.com/spreadsheets/d/1gisvvZVAlLx6FwH7bA4Y9Drq9NLDplPc7EdhSW-Q-BU/edit?usp=sharing)
 
