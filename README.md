@@ -1,11 +1,24 @@
 # About me 
 Hello, I'm Laura Payan Cepeda, and I’m a data and business analyst. My journey started in business, where I quickly fell in love with strategy. Over time, I realised that data is what truly drives well-informed decisions. Now, I help businesses and their teams solve challenges and reach their goals by making data work for them. Data holds the key to performance, but only when it’s understood and used the right way. I’m driven by curiosity, ambition and a passion for using data to create real, meaningful results. 
 
-*I welcome opportunities for collaboration and partnerships. If you are seeking someone to analyse your data and provide insights, please feel free to reach out* ---> [Linkedin](https://www.linkedin.com/in/laura-payan-cepeda/) 
+*I welcome opportunities for collaboration and partnerships. If you are interested, please feel free to reach out* ---> [Linkedin](https://www.linkedin.com/in/laura-payan-cepeda/) 
 
 ### Education 
 - First-class Honours Bachelor of Arts in International Business (University of Liverpool)
 - Distinction in Master of Science in Business Analytics and Big Data (University of Liverpool)
+
+### Skills & Certfications
+- Python for Data Science, ACTVET Certified
+- Foundations of Python Programming, ACTVET Certified
+- Advanced SQL (MS SQL Server, MySQL), ACTVET Certified
+- Microsoft Power BI (DAX), ACTVET Certified
+- Advanced Excel, ACTVET Certified
+- Tableau Desktop Specialist Certified Prep, LinkedIn Learning Certified
+- Learning GDPR & GDPR Compliance, LinkedIn Learning Certified
+
+Additional Skills: RStudio- RapidMiner- QlikView- Microsoft Project- Microsoft Office
+* SAP S4/HANA (MM, Controlling, PP, SD modules), Odoo 
+* Data Mining/Machine Learning algorithms 
 
 ### Areas of Interest 
 - Data Analysis and Development of Corporate Strategy Based on Data
@@ -16,18 +29,6 @@ Hello, I'm Laura Payan Cepeda, and I’m a data and business analyst. My journey
 - Data Management and Best Practices 
 - ERP Systems
 - Market Research and Consumer Behaviour Analysis
-
-### Skills & Certfications
-- Python for Data Science, ACTVET Certified
-- Advanced SQL (MS SQL Server, MySQL), ACTVET Certified
-- Power BI (DAX, Power Query), ACTVET Certified
-- Advanced Excel, ACTVET Certified
-- Tableau, LinkedIn Learning Certified
-- GDPR & GDPR Compliance, LinkedIn Learning Certified
-
-* RStudio/ RapidMiner/ QlikView/ MS Project/ MS Office
-* SAP S4/HANA (MM, Controlling, PP, SD modules), Odoo 
-* Data Mining/Machine Learning 
 
 # Projects 
 *I document my journey, taking on a variety of projects across different industries, driven by my natural curiosity about applying my skills and expanding my knowledge*
@@ -80,10 +81,13 @@ My goal with this dashboard is to use 1 month of GPS and Wellness Data, and revi
 
 The dashboard currently consists of a Daily Session Report, an Individual Player Report and a Player Wellness Report. 
 
+Daily Session Report 
 ![Training session](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/4659f9338b3b24fbebd629d1f156a6f0c4c49684/sports%20dashboard%20(1)_page-0001.jpg)
 
+Individual Player Report 
 ![Training session](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/4659f9338b3b24fbebd629d1f156a6f0c4c49684/sports%20dashboard%20(1)_page-0002.jpg)
 
+Player Wellness Report 
 ![Training session](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/4659f9338b3b24fbebd629d1f156a6f0c4c49684/sports%20dashboard%20(1)_page-0003.jpg)
 
 
@@ -96,35 +100,38 @@ This time, I created a dashboard in Google Sheets, part of a short course I took
 
 #### Information Dashboards (Power BI)
 
-##### Employee Information 
+##### Employee Information (HR Management)
 ![Employee Information Dashboard](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/5701710239cd5997c6c98d88499809741c189f3b/employee%20dashboard%202.PNG)
 
-##### Employee Information 
+##### Employee Information (HR Management) 
 ![Employee Information Dashboard](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/8ee34283a2c2e0629d6cb406ed31de0748072ff6/Employee%20chart%20dashboard.PNG)
 
-##### Order Tracking 
+##### Customer Order Tracking
 ![Employee Information Dashboard](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/dfa93de6dd0cf32d2a8e8fc160faef2d90af5ecf/POWER%20BI%20PURCHASE%20ORDER.PNG)
 
 #### Performance Dashboards (Power BI, Excel)
 
-##### Employee Performance (Shifts and Hours worked)
+##### Employee Performance (Shift schedules and workdays worked, with salary details)
+
+Main Interface
 ![Employee Performance](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/2b6cda8729ed3c3c355a466eca7488223ca72eb5/EMPLOYEE%20PERFORMANCE.PNG)
-
+Filtering based on the type of shift 
 ![Employee Performance 2](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/2b6cda8729ed3c3c355a466eca7488223ca72eb5/EMPLOYEE%20PERFORMANCE%202.PNG)
-
+Filtering based on the employee name 
 ![Employee Performance 3](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/2b6cda8729ed3c3c355a466eca7488223ca72eb5/EMPLOYEE%20PERFROMANCE%201.PNG)
-
+Filtering based on the Week Days 
 ![Employee Performance 4](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/2b6cda8729ed3c3c355a466eca7488223ca72eb5/EMPLOYEE%20PERFROMANCE%204.PNG)
 
 ##### Sales Commission
+Main Interface 
 ![Sales Commission](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/2b6cda8729ed3c3c355a466eca7488223ca72eb5/COMMISION%20REPORT.PNG)
-
+Filtering can be done based on Region or Salesman Name 
 ![Sales Commission 2](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/2b6cda8729ed3c3c355a466eca7488223ca72eb5/COMMISSION%20REPORT.PNG)
 
 ##### Map of Sales 
-
+Main Interface 
 ![Map of Sales](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/6427dfb3b4e2e1b18e0edc3de68d7f84637bca5d/MAP%203.PNG)
-
+Interactive Map filtering for Sales per Emirate 
 ![Map of Sales](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/6427dfb3b4e2e1b18e0edc3de68d7f84637bca5d/MAP.PNG)
 
 ##### Employee Sales Performance 
