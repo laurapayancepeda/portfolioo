@@ -1,34 +1,33 @@
 # About me 
 Hello, I'm Laura Payan Cepeda, and I’m a data and business analyst. My journey started in business, where I quickly fell in love with strategy. Over time, I realised that data is what truly drives well-informed decisions. Now, I help businesses and their teams solve challenges and reach their goals by making data work for them. Data holds the key to performance, but only when it’s understood and used the right way. I’m driven by curiosity, ambition and a passion for using data to create real, meaningful results. 
 
-*I welcome opportunities for collaboration and partnerships. If you are interested, please feel free to reach out* ---> [Linkedin](https://www.linkedin.com/in/laura-payan-cepeda/) 
+*If you are interested, please feel free to reach out* ---> [Linkedin](https://www.linkedin.com/in/laura-payan-cepeda/) 
 
 ### Education 
 - First-class Honours Bachelor of Arts in International Business (University of Liverpool)
 - Distinction in Master of Science in Business Analytics and Big Data (University of Liverpool)
 
 ### Skills & Certfications
-- Python for Data Science, ACTVET Certified
-- Foundations of Python Programming, ACTVET Certified
-- Advanced SQL (MS SQL Server, MySQL), ACTVET Certified
-- Microsoft Power BI (DAX), ACTVET Certified
-- Advanced Excel, ACTVET Certified
-- Tableau Desktop Specialist Certified Prep, LinkedIn Learning Certified
-- Learning GDPR & GDPR Compliance, LinkedIn Learning Certified
+- Power BI Data Analyst Associate
+- Computer Vision (Ongoing), ACTVET 
+- Natural Language Processing, ACTVET 
+- Python for Data Science, ACTVET 
+- SQL, ACTVET
+- Advanced Excel, ACTVET
+- Tableau Desktop Specialist Certified Prep, LinkedIn Learning 
+- Learning GDPR & GDPR Compliance, LinkedIn Learning 
 
-Additional Skills: RStudio- RapidMiner- QlikView- Microsoft Project- Microsoft Office
-* SAP S4/HANA (MM, Controlling, PP, SD modules), Odoo 
-* Data Mining/Machine Learning algorithms 
+Stack: SQL, Python, Git, Docker, Kubernetes, Power BI, Apache Superset, Tableau, Excel, RStudio, RapidMiner, QlikView, MS Office, Canvas 
+* SAP S4/HANA (MM, Controlling, PP, SD modules), Odoo, Adversus, Monday
+* Data Mining/Machine Learning/ Deep Learning 
 
 ### Areas of Interest 
-- Data Analysis and Development of Corporate Strategy Based on Data
-- Business Intelligence 
-- Machine learning and Data Mining 
+- AML and Compliance 
+- Customer Domains 
+- Performance Reporting and KPI tracking
 - Sports Analytics
 - Predictive and Prescriptive Analytics
-- Data Management and Best Practices 
-- ERP Systems
-- Market Research and Consumer Behaviour Analysis
+- Data Governance 
 
 # Projects 
 *I document my journey, taking on a variety of projects across different industries, driven by my natural curiosity about applying my skills and expanding my knowledge*
