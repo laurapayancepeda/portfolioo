@@ -153,7 +153,7 @@ Interactive Map filtering for Sales per Emirate
 ##### Profit and Sales Report 
 ![Profit and Sales Report](https://raw.githubusercontent.com/laurapayancepeda/portfolioo/dfa93de6dd0cf32d2a8e8fc160faef2d90af5ecf/POWER%20BI%20DASHBOARD%204.PNG)
 
-## Predictive Analytics 
+## Papers and Predictive Analytics 
 
 ### Predicting Customer Acceptance for Car Purchases Using a Decision Tree Model
 Developed a decision tree model to predict customer acceptance of car purchases based on key factors such as price, maintenance cost, safety ratings, and seating capacity. The model achieved an accuracy of 95% with a 10% classification error, demonstrating strong predictive performance in identifying buying preferences.
