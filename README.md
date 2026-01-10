@@ -7,7 +7,7 @@ Hello, I'm Laura Payan Cepeda, and I’m a data and business analyst. My journey
 - First-class Honours Bachelor of Arts in International Business (University of Liverpool)
 - Distinction in Master of Science in Business Analytics and Big Data (University of Liverpool)
 
-### Skills & Certfications
+### Skills & Certifications
 - Power BI Data Analyst Associate
 - Computer Vision (Ongoing), ACTVET 
 - Natural Language Processing, ACTVET 
