@@ -155,6 +155,11 @@ Interactive Map filtering for Sales per Emirate
 
 ## Papers and Predictive Analytics 
 
+### Enhancing Operational Efficiency Through Data-Driven Decisions with Odoo ERP and Business Intelligence Dashboard
+My thesis aims to develop a Business Intelligence (BI) model in Power BI to enhance data visibility, decision-making and operational efficiency at an SME collecting and integrating the data from their Odoo ERP system. By establishing Key Performance Indicators (KPIs) and incorporating them into a performance dashboard, the research offers a practical framework for SMEs. The study seeks to demonstrate how SMEs can integrate ERP and BI systems (ERPBI) to effectively harness data-driven decisions and customise these systems to address specific business challenges. 
+
+[Find out more](https://github.com/laurapayancepeda/portfolioo/blob/fc6b587ecc68e76ae7a6e269175213687a415986/Odoo%20ERP%20and%20BI%20Thesis-%20Abstract.pdf)
+
 ### Predicting Customer Acceptance for Car Purchases Using a Decision Tree Model
 Developed a decision tree model to predict customer acceptance of car purchases based on key factors such as price, maintenance cost, safety ratings, and seating capacity. The model achieved an accuracy of 95% with a 10% classification error, demonstrating strong predictive performance in identifying buying preferences.
 
