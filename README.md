@@ -1,15 +1,15 @@
 #  About Me
-Hello! I'm **Laura Payan Cepeda**, a Data & Business Intelligence Analyst.  
+Hello! I'm Laura Payan Cepeda, a Data & Business Intelligence Analyst.  
 
-My journey began in business, where I quickly fell in love with strategy. Over time, I realised that **data is what truly drives well-informed decisions**. Today, I help businesses and teams solve challenges and reach their goals by making data work for them.  
+My journey began in business, where I quickly fell in love with strategy. Over time, I realised that data is what truly drives well-informed decisions. Today, I help businesses and teams solve challenges and reach their goals by making data work for them.  
 
-I believe **data holds the key to performance—but only when it’s understood and used the right way**. I’m driven by **curiosity, ambition, and a passion for turning data into meaningful results**.  
+I believe data holds the key to performance—but only when it’s understood and used the right way. I’m driven by curiosity, ambition, and a passion for turning data into meaningful results.  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/laura-payan-cepeda/)
 
 ---
 
-## Education
+### Education
 - **Bachelor of Arts in International Business** — *First-Class Honours*  
   University of Liverpool
 - **Master of Science in Business Analytics & Big Data** — *Distinction*  
@@ -17,9 +17,9 @@ I believe **data holds the key to performance—but only when it’s understood 
 
 ---
 
-## Skills & Certifications
+### Skills & Certifications
 
-### Certifications
+#### Certifications
 - Power BI Data Analyst Associate — Microsoft  
 - Computer Vision — ACTVET  
 - Natural Language Processing — ACTVET  
@@ -29,14 +29,14 @@ I believe **data holds the key to performance—but only when it’s understood 
 - Tableau Desktop Specialist — LinkedIn Learning  
 - GDPR & Data Compliance — LinkedIn Learning  
 
-### 🛠️ Technical Stack
+#### 🛠️ Technical Stack
 - **Data & Analytics:** SQL, Python, RStudio, Excel / Google Sheets, DBT  
 - **BI & Visualization:** Power BI, Tableau, Apache Superset, QlikView  
 - **ERP / CRM / WMS:** Odoo, SAP4HANA *(MM, Controlling, PP, SD)*, Monday.com, Adversus  
 - **DevOps & Cloud Tools:** Git, Docker, Kubernetes, CMD, AWS (S3), Rancher, Bitbucket, Bash, Kibana  
 - **Other Tools:** RapidMiner, Microsoft Office Stack, Canvas  
 
-### Areas of Specialization
+#### Areas of Specialization
 - **Business Intelligence & Reporting**  
   Design and implement dashboards, automated reporting solutions, and KPI tracking systems using Power BI, Tableau, and Excel.  
 
@@ -57,7 +57,7 @@ I believe **data holds the key to performance—but only when it’s understood 
 ## Projects
 *I document my journey, taking on a variety of projects across different industries, driven by my natural curiosity about applying my skills and expanding my knowledge*
 
-## Analytics and Business Intelligence
+### Analytics and Business Intelligence
 ### Business Intelligence to support real-life decision-making and core functions in an SME (Power BI)
 As part of my master’s dissertation, I developed a Business Intelligence (BI) dashboard using Power BI with data from Odoo ERP. The project involved designing and developing seven functional navigation tabs covering key business areas, including sales, inventory, purchasing, and customer relationship management (CRM). 
 
