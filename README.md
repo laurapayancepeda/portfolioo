@@ -7,7 +7,7 @@ I believe data holds the key to performance—but only when it’s understood an
 
 🔗 [LinkedIn](https://www.linkedin.com/in/laura-payan-cepeda/)
 
----
+  ---
 
 ### Education
 - **Bachelor of Arts in International Business** — *First-Class Honours*  
@@ -29,7 +29,7 @@ I believe data holds the key to performance—but only when it’s understood an
 - Tableau Desktop Specialist — LinkedIn Learning  
 - GDPR & Data Compliance — LinkedIn Learning  
 
-#### 🛠️ Technical Stack
+#### Technical Stack
 - **Data & Analytics:** SQL, Python, RStudio, Excel / Google Sheets, DBT  
 - **BI & Visualization:** Power BI, Tableau, Apache Superset, QlikView  
 - **ERP / CRM / WMS:** Odoo, SAP4HANA *(MM, Controlling, PP, SD)*, Monday.com, Adversus  
