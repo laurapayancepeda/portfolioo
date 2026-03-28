@@ -1,33 +1,49 @@
 # About me 
-Hello, I'm Laura Payan Cepeda, and I’m a data and business analyst. My journey started in business, where I quickly fell in love with strategy. Over time, I realised that data is what truly drives well-informed decisions. Now, I help businesses and their teams solve challenges and reach their goals by making data work for them. Data holds the key to performance, but only when it’s understood and used the right way. I’m driven by curiosity, ambition and a passion for using data to create real, meaningful results. 
+Hello, I'm Laura Payan Cepeda, and I’m a data and business intelligence analyst. My journey started in business, where I quickly fell in love with strategy. Over time, I realised that data is what truly drives well-informed decisions. Now, I help businesses and their teams solve challenges and reach their goals by making data work for them. Data holds the key to performance, but only when it’s understood and used the right way. I’m driven by curiosity, ambition and a passion for using data to create real, meaningful results. 
 
-*If you are interested, please feel free to reach out* ---> [Linkedin](https://www.linkedin.com/in/laura-payan-cepeda/) 
+LinkedIn: [Linkedin](https://www.linkedin.com/in/laura-payan-cepeda/) 
 
-### Education 
-- First-class Honours Bachelor of Arts in International Business (University of Liverpool)
-- Distinction in Master of Science in Business Analytics and Big Data (University of Liverpool)
+### 🎓 Education  
+- **Bachelor of Arts in International Business** — First-Class Honours  
+  *University of Liverpool*  
+- **Master of Science in Business Analytics & Big Data** — Distinction  
+  *University of Liverpool*  
 
-### Skills & Certifications
-- Power BI Data Analyst Associate
-- Computer Vision (Ongoing), ACTVET 
-- Natural Language Processing, ACTVET 
-- Python for Data Science, ACTVET 
-- SQL, ACTVET
-- Advanced Excel, ACTVET
-- Tableau Desktop Specialist Certified Prep, LinkedIn Learning 
-- Learning GDPR & GDPR Compliance, LinkedIn Learning 
+### 🧠 Skills & Certifications  
 
-Stack: SQL, Python, Git, Docker, Kubernetes, Power BI, Apache Superset, Tableau, Excel, RStudio, RapidMiner, QlikView, MS Office, Canvas 
-* SAP S4/HANA (MM, Controlling, PP, SD modules), Odoo, Adversus, Monday
-* Data Mining/Machine Learning/ Deep Learning 
+#### 📊 Certifications  
+- Power BI Data Analyst Associate - Microsoft 
+- Computer Vision — ACTVET 
+- Natural Language Processing — ACTVET  
+- Python for Data Science & Machine Learning — ACTVET  
+- SQL — ACTVET  
+- Advanced Excel — ACTVET  
+- Tableau Desktop Specialist — LinkedIn Learning  
+- GDPR & Data Compliance — LinkedIn Learning  
 
-### Areas of Interest 
-- AML and Compliance 
-- Customer Domains 
-- Performance Reporting and KPI tracking
-- Sports Analytics
-- Predictive and Prescriptive Analytics
-- Data Governance 
+#### 🛠️ Technical Stack  
+- **Data & Analytics:** SQL, Python, RStudio, Excel/ Google Sheets, DBT
+- **BI & Visualization:** Power BI, Tableau, Apache Superset, QlikView
+- **ERP /CRM / WMS:** Odoo, SAP4HANA *(MM, Controlling, PP, SD)*, Monday.com, Adversus
+- **DevOps & Cloud Tools:** Git, Docker, Kubernetes, CMD, AWS (S3), Rancher, Bitbucket, Bash, Kibana 
+- **Other Tools:** RapidMiner, Microsoft Office Stack, Canvas
+
+#### 🏆 Areas of Specialization  
+
+- **Business Intelligence & Reporting**  
+  Designing and implementing dashboards, automated reporting solutions, and KPI tracking systems using Power BI, Tableau, and Excel.  
+
+- **Data Analytics & Engineering**  
+  Building and maintaining scalable data pipelines, ETL processes, and data warehouses; ensuring clean, structured, and usable datasets.  
+
+- **Predictive & Prescriptive Analytics**  
+  Applying statistical modeling, machine learning, and optimization techniques to forecast trends, recommend actions, and support decision-making.  
+
+- **Data Governance & Compliance**  
+  Implementing policies for data quality, security, privacy, and regulatory compliance (GDPR) to ensure reliable and ethical use of business data.  
+
+- **Performance Monitoring & Business Insights**  
+  Analyzing operational and financial metrics to optimize performance, uncover insights, and support strategic planning.  
 
 # Projects 
 *I document my journey, taking on a variety of projects across different industries, driven by my natural curiosity about applying my skills and expanding my knowledge*
