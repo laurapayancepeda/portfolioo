@@ -1,19 +1,27 @@
-# About me 
-Hello, I'm Laura Payan Cepeda, and I’m a data and business intelligence analyst. My journey started in business, where I quickly fell in love with strategy. Over time, I realised that data is what truly drives well-informed decisions. Now, I help businesses and their teams solve challenges and reach their goals by making data work for them. Data holds the key to performance, but only when it’s understood and used the right way. I’m driven by curiosity, ambition and a passion for using data to create real, meaningful results. 
+#  About Me
+Hello! I'm **Laura Payan Cepeda**, a Data & Business Intelligence Analyst.  
 
-LinkedIn: [Linkedin](https://www.linkedin.com/in/laura-payan-cepeda/) 
+My journey began in business, where I quickly fell in love with strategy. Over time, I realised that **data is what truly drives well-informed decisions**. Today, I help businesses and teams solve challenges and reach their goals by making data work for them.  
 
-### 🎓 Education  
-- **Bachelor of Arts in International Business** — First-Class Honours  
-  *University of Liverpool*  
-- **Master of Science in Business Analytics & Big Data** — Distinction  
-  *University of Liverpool*  
+I believe **data holds the key to performance—but only when it’s understood and used the right way**. I’m driven by **curiosity, ambition, and a passion for turning data into meaningful results**.  
 
-### 🧠 Skills & Certifications  
+🔗 [LinkedIn](https://www.linkedin.com/in/laura-payan-cepeda/)
 
-#### 📊 Certifications  
-- Power BI Data Analyst Associate - Microsoft 
-- Computer Vision — ACTVET 
+---
+
+## Education
+- **Bachelor of Arts in International Business** — *First-Class Honours*  
+  University of Liverpool
+- **Master of Science in Business Analytics & Big Data** — *Distinction*  
+  University of Liverpool
+
+---
+
+## Skills & Certifications
+
+### Certifications
+- Power BI Data Analyst Associate — Microsoft  
+- Computer Vision — ACTVET  
 - Natural Language Processing — ACTVET  
 - Python for Data Science & Machine Learning — ACTVET  
 - SQL — ACTVET  
@@ -21,31 +29,32 @@ LinkedIn: [Linkedin](https://www.linkedin.com/in/laura-payan-cepeda/)
 - Tableau Desktop Specialist — LinkedIn Learning  
 - GDPR & Data Compliance — LinkedIn Learning  
 
-#### 🛠️ Technical Stack  
-- **Data & Analytics:** SQL, Python, RStudio, Excel/ Google Sheets, DBT
-- **BI & Visualization:** Power BI, Tableau, Apache Superset, QlikView
-- **ERP /CRM / WMS:** Odoo, SAP4HANA *(MM, Controlling, PP, SD)*, Monday.com, Adversus
-- **DevOps & Cloud Tools:** Git, Docker, Kubernetes, CMD, AWS (S3), Rancher, Bitbucket, Bash, Kibana 
-- **Other Tools:** RapidMiner, Microsoft Office Stack, Canvas
+### 🛠️ Technical Stack
+- **Data & Analytics:** SQL, Python, RStudio, Excel / Google Sheets, DBT  
+- **BI & Visualization:** Power BI, Tableau, Apache Superset, QlikView  
+- **ERP / CRM / WMS:** Odoo, SAP4HANA *(MM, Controlling, PP, SD)*, Monday.com, Adversus  
+- **DevOps & Cloud Tools:** Git, Docker, Kubernetes, CMD, AWS (S3), Rancher, Bitbucket, Bash, Kibana  
+- **Other Tools:** RapidMiner, Microsoft Office Stack, Canvas  
 
-#### 🏆 Areas of Specialization  
-
+### Areas of Specialization
 - **Business Intelligence & Reporting**  
-  Designing and implementing dashboards, automated reporting solutions, and KPI tracking systems using Power BI, Tableau, and Excel.  
+  Design and implement dashboards, automated reporting solutions, and KPI tracking systems using Power BI, Tableau, and Excel.  
 
 - **Data Analytics & Engineering**  
-  Building and maintaining scalable data pipelines, ETL processes, and data warehouses; ensuring clean, structured, and usable datasets.  
+  Build and maintain scalable data pipelines, ETL processes, and data warehouses; ensure clean, structured, and usable datasets.  
 
 - **Predictive & Prescriptive Analytics**  
-  Applying statistical modeling, machine learning, and optimization techniques to forecast trends, recommend actions, and support decision-making.  
+  Apply statistical modeling, machine learning, and optimization techniques to forecast trends, recommend actions, and support decision-making.  
 
 - **Data Governance & Compliance**  
-  Implementing policies for data quality, security, privacy, and regulatory compliance (GDPR) to ensure reliable and ethical use of business data.  
+  Implement policies for data quality, security, privacy, and regulatory compliance (GDPR) to ensure reliable and ethical use of business data.  
 
 - **Performance Monitoring & Business Insights**  
-  Analyzing operational and financial metrics to optimize performance, uncover insights, and support strategic planning.  
+  Analyze operational and financial metrics to optimize performance, uncover insights, and support strategic planning.  
 
-# Projects 
+---
+
+## Projects
 *I document my journey, taking on a variety of projects across different industries, driven by my natural curiosity about applying my skills and expanding my knowledge*
 
 ## Analytics and Business Intelligence
