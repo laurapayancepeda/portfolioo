@@ -7,35 +7,35 @@ ninja.data = [{
     title: "about-me",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/draft/";
+      window.location.href = "/portfolioo/";
     },
   },{id: "nav-work",
           title: "work",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/draft/work/index.html";
+            window.location.href = "/portfolioo/work/index.html";
           },
         },{id: "nav-projects",
           title: "projects",
           description: "An evolving collection of projects I have built and explored.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/draft/projects/";
+            window.location.href = "/portfolioo/projects/";
           },
         },{id: "dropdown-work",
               title: "work",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/draft/work/";
+                window.location.href = "/portfolioo/work/";
               },
             },{id: "dropdown-projects",
               title: "projects",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/draft/projects/";
+                window.location.href = "/portfolioo/projects/";
               },
             },{id: "post-complyguard",
         
@@ -45,7 +45,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/draft/blog/2026/complyguard/";
+            window.location.href = "/portfolioo/blog/2026/complyguard/";
           
         },
       },{id: "post-the-coalesce-group",
@@ -56,7 +56,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/draft/blog/2026/colescegroup/";
+            window.location.href = "/portfolioo/blog/2026/colescegroup/";
           
         },
       },{id: "post-green-bell-packaging",
@@ -67,84 +67,84 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/draft/blog/2025/greenbellpackaging/";
+            window.location.href = "/portfolioo/blog/2025/greenbellpackaging/";
           
         },
       },{id: "news-inside-my-ba-in-international-business-degree-modules-amp-learnings",
           title: 'Inside My BA in International Business Degree - Modules &amp;amp; Learnings',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/draft/news/bachelors/";
+              window.location.href = "/portfolioo/news/bachelors/";
             },},{id: "news-inside-my-msc-business-analytics-and-big-data-degree-modules-amp-learnings",
           title: 'Inside My MSc Business Analytics and Big Data Degree - Modules &amp;amp; Learnings...',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/draft/news/masters/";
+              window.location.href = "/portfolioo/news/masters/";
             },},{id: "news-languages-a-multilingual-journey",
           title: 'Languages- A Multilingual Journey',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/draft/news/languages/";
+              window.location.href = "/portfolioo/news/languages/";
             },},{id: "projects-predicting-customer-acceptance-for-car-purchases",
           title: 'Predicting Customer Acceptance for Car Purchases',
           description: "RSTUDIO",
           section: "Projects",handler: () => {
-              window.location.href = "/draft/projects/car-purchases-predictor/";
+              window.location.href = "/portfolioo/projects/car-purchases-predictor/";
             },},{id: "projects-coffee-shop-sales-report",
           title: 'Coffee Shop Sales Report',
           description: "TABLEAU",
           section: "Projects",handler: () => {
-              window.location.href = "/draft/projects/coffee-sales/";
+              window.location.href = "/portfolioo/projects/coffee-sales/";
             },},{id: "projects-corporate-dashboards-monitoring-and-reporting",
           title: 'Corporate Dashboards - Monitoring and Reporting',
           description: "POWER BI | EXCEL",
           section: "Projects",handler: () => {
-              window.location.href = "/draft/projects/corporate-dashboards/";
+              window.location.href = "/portfolioo/projects/corporate-dashboards/";
             },},{id: "projects-employee-analysis-and-summary",
           title: 'Employee Analysis and Summary',
           description: "TABLEAU",
           section: "Projects",handler: () => {
-              window.location.href = "/draft/projects/employee-analysis/";
+              window.location.href = "/portfolioo/projects/employee-analysis/";
             },},{id: "projects-fisheries-conservation-and-forecasting",
           title: 'Fisheries Conservation and Forecasting',
           description: "TABLEAU | RAPIDMINER",
           section: "Projects",handler: () => {
-              window.location.href = "/draft/projects/fisheries-analysis/";
+              window.location.href = "/portfolioo/projects/fisheries-analysis/";
             },},{id: "projects-rotten-fruit-predictor",
           title: 'Rotten Fruit Predictor',
           description: "CV/YOLO | PYTHON",
           section: "Projects",handler: () => {
-              window.location.href = "/draft/projects/fruit-predictor/";
+              window.location.href = "/portfolioo/projects/fruit-predictor/";
             },},{id: "projects-match-game-performance-analysis",
           title: 'Match Game Performance Analysis',
           description: "TABLEAU",
           section: "Projects",handler: () => {
-              window.location.href = "/draft/projects/match-analysis/";
+              window.location.href = "/portfolioo/projects/match-analysis/";
             },},{id: "projects-news-content-predictor",
           title: 'News Content Predictor',
           description: "LLM/BERT | PYTHON",
           section: "Projects",handler: () => {
-              window.location.href = "/draft/projects/news-predictor/";
+              window.location.href = "/portfolioo/projects/news-predictor/";
             },},{id: "projects-session-training-and-player-performance",
           title: 'Session Training and Player Performance',
           description: "POWER BI",
           section: "Projects",handler: () => {
-              window.location.href = "/draft/projects/session-analysis/";
+              window.location.href = "/portfolioo/projects/session-analysis/";
             },},{id: "projects-player-and-team-performance-analysis",
           title: 'Player and Team Performance Analysis',
           description: "RSTUDIO",
           section: "Projects",handler: () => {
-              window.location.href = "/draft/projects/team-performance/";
+              window.location.href = "/portfolioo/projects/team-performance/";
             },},{id: "projects-sentiment-analysis-and-pattern-recognition-in-wellbeing",
           title: 'Sentiment Analysis and Pattern Recognition in Wellbeing',
           description: "RSTUDIO",
           section: "Projects",handler: () => {
-              window.location.href = "/draft/projects/wellbeing-analysis/";
+              window.location.href = "/portfolioo/projects/wellbeing-analysis/";
             },},{id: "projects-wine-quality-prediction",
           title: 'Wine Quality Prediction',
           description: "RSTUDIO",
           section: "Projects",handler: () => {
-              window.location.href = "/draft/projects/wine-quality/";
+              window.location.href = "/portfolioo/projects/wine-quality/";
             },},{
         id: 'social-linkedin',
         title: 'LinkedIn',
