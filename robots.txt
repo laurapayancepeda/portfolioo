@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://laurapayancepeda.github.io/draft/sitemap.xml
