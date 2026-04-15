@@ -7,7 +7,7 @@ importance: 1
 category: fun
 ---
 
-This projects aims to give a full breakdown of the sales of a coffee shop. It goes in depth into the country, product and market level.
+This project aims to give a full breakdown of the sales of a coffee shop. It goes in depth into the country, product and market level.
 
 [Interact with the Dashboard](https://public.tableau.com/views/CoffeeShopSalesBreakdown/CoffeeShopBreakdown?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
