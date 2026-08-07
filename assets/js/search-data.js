@@ -41,7 +41,7 @@ ninja.data = [{
         
           title: "Complyguard",
         
-        description: "and my role as a Data and Business Intelligence Analyst",
+        description: "and my role as a Data Engineer",
         section: "Posts",
         handler: () => {
           
