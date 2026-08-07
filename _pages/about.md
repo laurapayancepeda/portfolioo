@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Laura Payan Cepeda, and I am a Data and Business Intelligence Analyst specialising in end-to-end data workflows, analytics engineering, and the delivery of automated reporting and business intelligence solutions. My journey began in business, where I developed a strong interest in strategy and decision-making. Over time, I came to realise that data is the foundation of effective, evidence-based decisions. This insight led me to transition into the field of data, where I now help organisations and distributed teams solve complex challenges and achieve their objectives by transforming data into actionable insights and recommendations.
+My name is Laura Payan Cepeda, and I am a Data Engineer specialising in end-to-end data workflows, analytics modelling, and the development and delivery of automated reporting and business intelligence solutions. My journey began in business, where I developed a strong interest in strategy and decision-making. Over time, I came to realise that data is the foundation of effective, evidence-based decisions. This insight led me to transition into the field of data, where I now help organisations and distributed teams solve complex challenges and achieve their objectives by transforming data into actionable insights and recommendations.
 
 I believe data only creates value when it is clearly understood and effectively applied. I am driven by curiosity, ambition, and a commitment to continuous growth and excellence. I bring a strong analytical mindset, attention to detail, and a track record of turning complex raw data into clear business impact.
 
@@ -135,12 +135,12 @@ I believe data only creates value when it is clearly understood and effectively 
 ---
 
 #### Technical Stack
-
-- **Data & Analytics:** SQL, Python, RStudio, Excel, Google Sheets, DBT
-- **BI & Visualization:** Power BI, Tableau, Apache Superset, QlikView
+- **Data Engineering & Processing:** Apache Kafka, Apache Flink, Apache Spark, DBT, Python, SQL
+- **Data Analytics & BI:** Power BI, Tableau, Apache Superset, QlikView, RStudio, Excel, Google Sheets
+- **Databases & Data Warehousing:** ClickHouse, Snowflake, MySQL, MSSQL Server
 - **ERP / CRM / WMS:** Odoo, SAP4HANA _(MM, Controlling, PP, SD)_, Monday.com, Adversus
-- **DevOps & Cloud Tools:** Git, Docker, Kubernetes, CMD, AWS (S3), Rancher, Bitbucket, Jira, Bash, ELKStack, Kibana
-- **Databases:** MYSQL, MSSQL Server, Clickhouse, Snowflake
+- **DevOps & Cloud Tools:** AWS (S3), Docker, Kubernetes, Rancher, Git, Bitbucket, Bash, CMD, Jira, ELK Stack, Kibana
+- **ERP / CRM / WMS:** Odoo, SAP S/4HANA (MM, Controlling, PP, SD), Monday.com, Adversus
 - **Other Tools:** RapidMiner, Microsoft Office Stack, Canvas
 
 ---
