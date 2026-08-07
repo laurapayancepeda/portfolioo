@@ -16,7 +16,7 @@ I initially joined ComplyGuard as a Data and Business Intelligence Analyst, work
 
 Today, I work at the intersection of data engineering, regulation, and real-world impact, designing, building, and maintaining scalable data solutions that support operational monitoring, revenue reporting, tax compliance, responsible gaming, player behaviour analysis, KYC, anti-money laundering, and licensing requirements.
 
-I work across the full data lifecycle,  from data ingestion and transformation through to analytical modelling and reporting layers. I design and develop reliable data pipelines, build structured data models, optimise data workflows, and ensure that complex datasets are transformed into accurate, trusted, and accessible information for business users, regulators, and internal teams.
+I work across the full data lifecycle, from data ingestion and transformation through to analytical modelling and reporting layers. I design and develop reliable data pipelines, build structured data models, optimise data workflows, and ensure that complex datasets are transformed into accurate, trusted, and accessible information for business users, regulators, and internal teams.
 
 A key part of my role is developing robust data foundations that enable scalable reporting and analytics. This involves working with large and diverse data sources, implementing data quality checks, improving pipeline reliability, and creating maintainable solutions that support evolving business and regulatory requirements.
 

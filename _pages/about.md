@@ -135,6 +135,7 @@ I believe data only creates value when it is clearly understood and effectively 
 ---
 
 #### Technical Stack
+
 - **Data Engineering & Processing:** Apache Kafka, Apache Flink, Apache Spark, DBT, Python, SQL
 - **Data Analytics & BI:** Power BI, Tableau, Apache Superset, QlikView, RStudio, Excel, Google Sheets
 - **Databases & Data Warehousing:** ClickHouse, Snowflake, MySQL, MSSQL Server
